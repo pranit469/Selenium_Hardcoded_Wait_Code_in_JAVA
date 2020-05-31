@@ -23,5 +23,4 @@ public class UsageOfSleep {
 		driver.findElement(By.xpath("//li[@select-id='results[0]']")).click();
 		// Closing browser
 		driver.quit();
-	}
-}
+	}}
